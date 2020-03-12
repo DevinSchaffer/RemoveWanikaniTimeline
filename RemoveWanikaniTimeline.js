@@ -11,6 +11,8 @@
 
 $(document).ready(function() {
     $(".forecast").remove();
+    $(".lessons-and-reviews").remove()
     $(".progress-and-forecast").css("grid-template-columns", "repeat(4, 1fr)");
+    $(".progress-and-forecast").css("grid-template-rows", "auto");
     $(".lessons-and-reviews ul li").css("flex", "0 1 50%");
 });
