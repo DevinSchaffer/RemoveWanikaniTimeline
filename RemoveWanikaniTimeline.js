@@ -5,6 +5,7 @@
 // @author        Devin Schaffer
 // @version       1.0.0
 // @include       https://www.wanikani.com/dashboard
+// @include       https://www.wanikani.com
 // @grant         none
 // ==/UserScript==
 
